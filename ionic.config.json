@@ -1,0 +1,7 @@
+{
+  "name": "fscopy-crash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
